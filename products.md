@@ -8,3 +8,6 @@
  
 * Services
   * ChatGPT, Cursor, Windsurf    
+
+* useful links
+  * promptingguide.ai 
